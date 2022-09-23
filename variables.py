@@ -16,3 +16,7 @@ name = f"{first_name} {second_name}" #we can use an f-string to combine variable
 print(name)
 print(f"Hello, {first_name.title()}")
 
+notice=f"Hello, {first_name.title()}" # an f-string can be included in a variable
+print(notice)
+
+
